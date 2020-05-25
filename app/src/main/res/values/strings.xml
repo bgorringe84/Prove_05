@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prove 05</string>
+    <string name="edit_book">Book..</string>
+    <string name="button_send">Send</string>
+    <string name="main_message">Enter your Favorite Scripture:</string>
+    <string name="edit_chapter">Chapter..</string>
+    <string name="edit_verse">Verse..</string>
+</resources>
